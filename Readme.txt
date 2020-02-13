@@ -1,4 +1,4 @@
 
 Website Name: KruArt
-Author: KruArt
+Author: Kruti Shah
 
